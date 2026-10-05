@@ -1,0 +1,19 @@
+{
+  "wheel_id": 323,
+  "structure": "umbrella",
+  "slug": "solicitorsaustralia-com-103",
+  "project": "family-lawyers-brisbane-costs-dae841557b79c8b953ea09520a67de72d",
+  "parent_t1_ref": "solicitorsaustralia-com-151",
+  "node_role": "feeder",
+  "money_target": "solicitorsaustralia.com.au",
+  "primary_kw": "family lawyers brisbane costs",
+  "intended_url": "https://aumedia.neocities.org/family-lawyers-brisbane-costs-dae841557b79c8b953ea09520a67de72d/",
+  "writeback_nonce": "2822eee0cbcd6fea",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/solicitorsaustralia-com-151/",
+      "anchor": "family lawyers brisbane",
+      "rel": "follow"
+    }
+  ]
+}
